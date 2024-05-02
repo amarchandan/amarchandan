@@ -19,7 +19,6 @@
 ## 🔗 Connect with me
 
 <a href="https://instagram.com/@xcodz_" class="padded"><img align="left" alt="xcodz_" width="28px" src="./res/Instagram.svg" /></a> 
-<a href="https://youtube.com/xcodz" class="padded"><img align="left" alt="xcodz" width="28px" src="./res/youtube.png" /></a> 
 <a href="https://telegram.dog/REBEL_IS_OP" class="padded"><img align="left" alt="REBEL_IS_OP" width="28px" src="./res/telegram.png" /></a> 
 <a href="https://twitter.com/theamarchandan" class="padded"><img align="left" alt="theamarchandan" width="28px" src="./res/twitter.png" /></a> 
 </br>
