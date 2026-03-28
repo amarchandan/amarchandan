@@ -1,7 +1,7 @@
   <!-- About Me Section -->
   <h2 align="center" style="font-size: 28px; color: #2c3e50; margin-bottom: 10px;">👋 About Me</h2>
   <p style="font-size: 16px; line-height: 1.6; margin-bottom: 15px;">
-    Hey there! I'm <strong style="color: #e74c3c;">Okkhex</strong>, a passionate student exploring the world of programming, Networking, cybersecurity, embedded systems and cryptography.
+    Hey there! I'm <strong style="color: #e74c3c;">Amar</strong>, a passionate student exploring the world of programming, Networking, cybersecurity, embedded systems and cryptography.
   </p>
   <p style="font-size: 16px; line-height: 1.6; margin-bottom: 15px;">
   🔍 I am highly interested in <strong>machine learning</strong>, <strong>algorithm design</strong>, <strong>GPU/CPU programming</strong>, <strong>Cryptography</strong> and <strong>kernel development</strong>. My goal is to understand how systems work at a fundamental level and contribute to advancements in these fields.
