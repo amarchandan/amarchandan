@@ -32,7 +32,7 @@
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
     <div style="flex: 1; max-width: 300px;">
       <h3 style="font-size: 18px; color: #34495e;">Languages</h3>
-      <p style="font-size: 16px;">Assembly, C/C++, Python, Bash, Rust(noob)</p>
+      <p style="font-size: 16px;">Assembly(x86/ARM), C/C++, Python, Bash, Rust(noob)</p>
     </div>
     <div style="flex: 1; max-width: 300px;">
       <h3 style="font-size: 18px; color: #34495e;">Database</h3>
